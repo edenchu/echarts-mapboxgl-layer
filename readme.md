@@ -1,3 +1,6 @@
+
+copy from https://github.com/lzxue/echartsLayer <br>
+
 ## mapboxGL echartslayer
 Add [echarts](https://github.com/ecomfe/echarts) charts to  [mapboxGL](https://github.com/mapbox/mapbox-gl-js) as a layer
 
