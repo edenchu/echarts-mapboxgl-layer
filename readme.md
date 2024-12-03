@@ -1,5 +1,5 @@
 
-##copy from lzxue/echartsLayer
+## Copy From lzxue/echartsLayer
 https://github.com/lzxue/echartsLayer <br>
 
 ## mapboxGL echartslayer
